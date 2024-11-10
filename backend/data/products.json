@@ -1,0 +1,146 @@
+[
+    {
+	    "category": "headphones",
+	    "vendor": "Beats",
+	    "model": "Beats Studio Pro",
+	    "price": 136.31,
+	    "image": "https://m.media-amazon.com/images/I/61u-OaDSfQL._AC_SX522_.jpg",
+	    "descr": ""
+    },
+    {
+        "category": "headphones",
+        "vendor": "Soundcore",
+        "model": "Soundcore Anker Life Q20 Hybrid",
+        "price": 47.71,
+        "image": "https://m.media-amazon.com/images/I/61O7S27O+jL._AC_SX466_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "headphones",
+        "vendor": "Sony",
+        "model": "Sony WH-CH520 Wireless",
+        "price": 32.17,
+        "image": "https://m.media-amazon.com/images/I/41lArSiD5hL._AC_SX466_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "headphones",
+        "vendor": "Apple",
+        "model": "Apple AirPods Max Wireless",
+        "price": 389.55,
+        "image": "https://m.media-amazon.com/images/I/81thV7SoLZL._AC_SX522_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "headphones",
+        "vendor": "Sony",
+        "model": "Sony WH-CH720N",
+        "price": 49.72,
+        "image": "https://www.galaxus.de/im/productimages/2/6/2/4/4/6/6/1/4/3/2/4/6/9/1/4/5/8/3/7c828fee-3668-42f5-b136-123904e9ccaf_cropped.jpg?impolicy=product&resizeWidth=720",
+        "descr": ""
+    },
+    {
+        "category": "headphones",
+        "vendor": "SONY",
+        "model": "SONY iPhone 16 128GB White (MYE93ZD/A)",
+        "price": 849.0,
+        "image": "https://media.cdn.kaufland.de/product-images/1024x1024/cbe1bf3c88fb30eae3ad479c76028483.webp",
+        "descr": ""
+    },
+    {
+        "category": "laptop",
+        "vendor": "Apple",
+        "model": "MacBook Air Laptop with M2 chip",
+        "price": 799.00,
+        "image": "https://m.media-amazon.com/images/I/71f5Eu5lJSL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "laptop",
+        "vendor": "ASUS",
+        "model": "ASUS Zenbook S 13 OLED Ultra Laptop",
+        "price": 1161.29,
+        "image": "https://m.media-amazon.com/images/I/71zAKORB6hL._AC_SX466_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "laptop",
+        "vendor": "HP",
+        "model": "HP 2023 Newest Chromebook Laptop",
+        "price": 148.50,
+        "image": "https://m.media-amazon.com/images/I/51PsNbMd-CL._AC_SX466_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "laptop",
+        "vendor": "Lenovo",
+        "model": "Lenovo IdeaPad 1 Student Laptop",
+        "price": 319.99,
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_wyqJsj6vuSD7r1xgsDSLzJxvSZ5mHAYdu892b54rhaF4BMo&usqp=CAY",
+        "descr": ""
+    },
+    {
+        "category": "laptop",
+        "vendor": "HP",
+        "model": "HP Chromebook 15 15.6'",
+        "price": 208.00,
+        "image": "https://m.media-amazon.com/images/I/61fBSyMHtdL._AC_SX679_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "laptop",
+        "vendor": "Lenovo",
+        "model": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6'",
+        "price": 199.00,
+        "image": "https://m.media-amazon.com/images/I/61QGMX0Qy6L.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "desktop",
+        "vendor": "Dell",
+        "model": "Dell Inspiron 3020 Desktop",
+        "price": 759.17,
+        "image": "https://m.media-amazon.com/images/I/71x-wW8OPBL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "desktop",
+        "vendor": "MSi",
+        "model": "MSI Aegis ZS Gaming Desktop",
+        "price": 989.01,
+        "image": "https://m.media-amazon.com/images/I/61wsH0j5SvL._AC_SX466_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "desktop",
+        "vendor": "Thermaltake",
+        "model": "Thermaltake LCGS Quartz i460 R4 Gaming Desktop",
+        "price": 826.64,
+        "image": "https://m.media-amazon.com/images/I/81JtHUVy7+L._AC_SY300_SX300_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "desktop",
+        "vendor": "Lenovo",
+        "model": "Lenovo V50t Gen 2 Business Tower Desktop",
+        "price": 479.00,
+        "image": "https://m.media-amazon.com/images/I/51Ed4pVZa0L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "desktop",
+        "vendor": "HP",
+        "model": "HP ProDesk 400 G9 Small Form Factor Business Desktop",
+        "price": 729.00,
+        "image": "https://m.media-amazon.com/images/I/61lAOueIdUL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "descr": ""
+    },
+    {
+        "category": "desktop",
+        "vendor": "ASUS",
+        "model": "ASUS Zen AiO 24, 23.8” FHD Touchscreen Display",
+        "price": 590.58,
+        "image": "https://m.media-amazon.com/images/I/81OOKMXAUKL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "descr": ""
+    }
+]

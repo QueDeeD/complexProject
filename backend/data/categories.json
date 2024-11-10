@@ -1,0 +1,17 @@
+[
+    {
+        "name": "headphones",
+        "displayName": "HeadPhones",
+        "image": "https://pngimg.com/d/headphones_PNG101978.png"
+    },
+    {
+        "name": "laptops",
+        "displayName": "Laptops",
+        "image": "https://image.similarpng.com/very-thumbnail/2020/06/Digital-laptops-on-transparent-background-PNG.png"
+    },
+    {
+        "name": "desktops",
+        "displayName": "Desktops",
+        "image": "https://www.transparentpng.com/download/computer/6o4Q2H-png-windows-desktop-set-software-game-coding-.png"
+    }   
+]

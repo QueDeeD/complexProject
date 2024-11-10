@@ -1,0 +1,24 @@
+@import './base.css';
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abel&display=swap');
+
+.container {
+    width: 80%;
+    height: fit-content;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.container-flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-self: center;
+}
+.container-flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-self: center;
+}
